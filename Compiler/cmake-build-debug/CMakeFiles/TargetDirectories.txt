@@ -1,0 +1,14 @@
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/LexicalAnalyzer/CMakeFiles/LexicalAnalyzer.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/LexicalAnalyzer/CMakeFiles/edit_cache.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/LexicalAnalyzer/CMakeFiles/rebuild_cache.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/LexicalAnalyzerGenerator/CMakeFiles/LexicalAnalyzerGenerator.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/LexicalAnalyzerGenerator/CMakeFiles/edit_cache.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/LexicalAnalyzerGenerator/CMakeFiles/rebuild_cache.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/ParserGenerator/CMakeFiles/ParserGenerator.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/ParserGenerator/CMakeFiles/edit_cache.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/ParserGenerator/CMakeFiles/rebuild_cache.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/Compiler/CMakeFiles/Compiler.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/Compiler/CMakeFiles/edit_cache.dir
+C:/Users/win8.1/CLionProjects/javacompiler/cmake-build-debug/Compiler/CMakeFiles/rebuild_cache.dir
